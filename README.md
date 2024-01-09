@@ -3,6 +3,8 @@
 
 - 🌱 I’m currently learning **Next JS**
 
+- Frontend Developer at Computer Society of India 
+
 - 📫 How to reach me **abhinavmishra0493@gmail.com**
 
 ## 🌐 Socials:
