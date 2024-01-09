@@ -5,12 +5,6 @@
 
 - 📫 How to reach me **abhinavmishra0493@gmail.com**
 
- <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=%23FF7733&size=32&center=true&vCenter=true&width=600&height=50&lines=Frontend Developer;Problem+Solver" alt="Headline" />
-</div>
-
-
-
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/abhinav_mishra29) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/abhinav-mishra-b95301258) 
 
