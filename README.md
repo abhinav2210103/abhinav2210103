@@ -57,9 +57,6 @@ _Aug 2025 – Nov 2025_
 
 - Built **LLM-powered GenAI agent systems** using Node.js & Next.js
 - Designed prompt orchestration, context management & autonomous workflows
-- Automated **5+ workflows**, reducing manual effort by **40%**
-- Built scalable data ingestion & scraping pipelines from **20+ sources**
-
 ---
 
 ## 💻 Tech Stack
