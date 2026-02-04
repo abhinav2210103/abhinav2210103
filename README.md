@@ -88,38 +88,6 @@ _Aug 2025 – Nov 2025_
 
 ---
 
-## 📂 Projects
-
-### **Exam Portal**
-**Next.js · TypeScript · Redux Toolkit**  
-🔗 GitHub | Live
-
-- Built a scalable SSR-based exam portal for student recruitment
-- Used by **300+ students**
-- Improved load performance by **35%**
-- Increased qualified candidate recruitment by **50%**
-
----
-
-### **Opinio**
-**Node.js · Express · MongoDB · Redis · React Native · Expo**  
-🔗 Frontend | Backend
-
-- Built a thought-sharing mobile platform for college students
-- Improved user engagement by **60%**
-- Used Redis caching & rate limiting
-- Achieved **90% faster API responses**
-
----
-
-## 🏆 Achievements
-
-- Solved **300+ DSA problems** on LeetCode, CodeChef & Codeforces
-- Secured **2nd rank among 400 participants** in Hour of Code competition
-- Strong ownership mindset — from **idea → development → deployment**
-
----
-
 ## 📊 GitHub Stats
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=abhinav2210103&theme=dark&hide_border=false)
